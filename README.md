@@ -2,7 +2,7 @@ Hey! I am a Software Engineering Co-op student at Concordia.
 
 Wanna see what I'm cooking? Check this out: [COOKART](https://cookart.onrender.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonlolleonlol&hide=contribs,stars&&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonlolleonlol&hide=contribs,stars&&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 
 **Some Tools I Have Used and Learned**   
 <p align="left">
