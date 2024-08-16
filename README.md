@@ -6,7 +6,7 @@ Want to learn more about me? Check out my [portfolio!](https://leonkojakian.onre
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=leonlolleonlol&hide=contribs,stars&&rank_icon=github" alt="Anurag's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=leonlolleonlol&hide=contribs,stars&&rank_icon=github&include_all_commits=true" alt="Anurag's GitHub stats"/>
     </td>
     <td>
       <p align="left">
