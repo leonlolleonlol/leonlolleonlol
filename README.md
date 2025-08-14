@@ -1,4 +1,4 @@
-Hey! I am a Software Engineering Co-op student at Concordia.  
+Hey! I am a Software Engineering Co-op student at Concordia University  
 I love building impactful & practical software projects and work hands-on on robotics and automation  
 Want to learn more about me? Check out my [portfolio!](https://leonkojakian.onrender.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **My Proficiencies:**  
 
