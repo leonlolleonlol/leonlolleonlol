@@ -6,7 +6,7 @@ Want to learn more about me? Check out my [portfolio!](https://leonkojakian.onre
 <table>
   <tr>
     <td>
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/leonlolleonlol?cardType=level&preferLogin=false" alt="Leon's GitHub stats"/>
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/leonlolleonlol?cardType=level&preferLogin=false&theme=gotham" alt="Leon's GitHub stats"/>
     </td>
     <td>
       <p align="left">
